@@ -8,8 +8,6 @@
 
 I build and maintain **cloud-native backend systems** for enterprise applications. I work with **PHP/Symfony** and **Node/NestJS**, building scalable REST APIs, distributed microservices, and data-driven platforms running on **Docker + Kubernetes**.  
 
-I’ve designed and built infrastructure for complex domains, including compliance workflows, financial data systems, and AI-powered services. I focus on **performance, reliability, and maintainability** — whether modernizing legacy platforms or building new services from the ground up.  
-
 ---
 
 ## 🛠️ My Tech Stack & Tools  
