@@ -39,5 +39,5 @@ What motivates me most is the thought of children around the world. Every time w
 
 ## 📫 How to Reach Me  
 
-Feel free to connect: [LinkedIn](https://www.linkedin.com/in/premsg/) · [Email](mailto:prem.sg.prem@gmail.com) ·   
+Feel free to connect: [LinkedIn](https://www.linkedin.com/in/premsg/) · [Email](mailto:prem.sg.prem@gmail.com) ·   [Contact](https://premsg.info/#/contact)
 
