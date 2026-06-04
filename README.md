@@ -8,36 +8,62 @@
 
 I build and maintain **cloud-native backend systems** for enterprise applications. I work with **PHP/Symfony** and **Node/NestJS**, building scalable REST APIs, distributed microservices, and data-driven platforms running on **Docker + Kubernetes**.  
 
----
-
-## 🛠️ My Tech Stack & Tools  
-
-- **Backend / Language:** PHP, Symfony, Node.js, NestJS, TypeScript & JavaScript  
-- **Microservices & Architecture:** REST APIs, Event-Driven Architecture, Message Queues (RabbitMQ, BullMQ), API Gateways  
-- **DevOps & Cloud:** Docker, Kubernetes (HPA, health checks, autoscaling), CI/CD pipelines, Git  
-- **Data & Storage:** MySQL, Elasticsearch, Redis, ChromaDB, Relational & No-SQL data stores  
-- **AI / Data-Driven Systems:** RAG pipelines, vector databases, semantic search, data ingestion workflows  
-- **Collaboration & Practices:** Agile/Scrum, documentation, code reviews, cross-team integration, full SDLC ownership  
+[![Website](https://img.shields.io/badge/Website-premsg.info-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://premsg.info/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-premsg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premsg/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prem.sg.prem@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=premsgdev&style=flat-square&color=0A66C2)](https://github.com/premsgdev)
 
 ---
 
-## 🌱 What I’m Passionate About  
+### Tech Stack
+ 
+**Languages**
+ 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+ 
+**Backend & Frameworks**
+ 
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+ 
+**Data & Messaging**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+ 
+**Cloud & DevOps**
+ 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+ 
+**AI & Retrieval**
+ 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Vector%20DBs-FF4D4D?style=flat-square&logo=qdrant&logoColor=white)
 
-I’m passionate about solving complex backend engineering challenges and continuously improving the performance, reliability, and scalability of the systems I build. I enjoy designing maintainable architectures that can evolve with business needs and stand the test of time. One area I particularly enjoy is modernizing legacy applications—transforming them into clean, scalable, and efficient platforms while introducing engineering best practices and architectural standards. I’m also a lifelong learner who enjoys exploring new technologies, especially in the areas of cloud computing, distributed systems, microservices, data platforms, and AI-driven solutions. For me, technology is not just about building software; it’s about creating systems that are robust, sustainable, and capable of delivering long-term value. 
-
+### GitHub Stats
+ 
+<div align="center">
+![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premsgdev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premsgdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=premsgdev&hide_border=true&theme=tokyonight)
+ 
+</div>
 ---
-
-## ❤️ More Than Code  
-
-Outside of work, I enjoy reading, learning about history, and exploring historic places because I’m fascinated by how societies and civilizations have evolved over time. Nature is my therapy, and I often spend time on forest treks, long walks, and tent stays under the stars to disconnect, recharge, and gain fresh perspectives. I genuinely enjoy meeting people, listening to their stories, and understanding different viewpoints, as I believe empathy helps me build stronger relationships and collaborate more effectively. Curiosity is one of my core traits, and I am always open to new ideas, meaningful discussions, and challenges that help me grow. I also love cooking—both in the kitchen and in code—because I enjoy the process of combining simple ingredients or ideas to create something valuable, nourishing, and worth sharing with others.
-
----
-
-## ❤️ My Motivation
-
-What motivates me most is the thought of children around the world. Every time we automate a process or solve a technical challenge, we give someone a little more time to go home early, to be with their kids, and to create moments that make life brighter. I believe software engineers everywhere are quietly helping build a more humane world, one small improvement at a time.
-
-## 📫 How to Reach Me  
-
-Feel free to connect: [LinkedIn](https://www.linkedin.com/in/premsg/) · [Email](mailto:prem.sg.prem@gmail.com) ·   [Contact](https://premsg.info/#/contact)
-
+<div align="center">
+*Outside code: history, forest treks under the stars, and cooking.*
+ 
+</div>
