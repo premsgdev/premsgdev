@@ -6,12 +6,13 @@
 
 ## 🚀 What I Do  
 
-I build and maintain **cloud-native backend systems** for enterprise applications. I work with **PHP/Symfony** and **Node/NestJS**, building scalable REST APIs, distributed microservices, and data-driven platforms running on **Docker + Kubernetes**.  
+I design and maintain backend platforms for enterprise products — scalable REST APIs, event-driven microservices, and data-intensive systems running on Docker and Kubernetes. Lately I'm focused on **RAG and AI-driven systems**: retrieval pipelines, vector search, and LLM-backed workflows. I care most about modernizing legacy systems into clean, maintainable architecture that lasts..
 
 [![Website](https://img.shields.io/badge/Website-premsg.info-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://premsg.info/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-premsg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premsg/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prem.sg.prem@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=premsgdev&style=flat-square&color=0A66C2)](https://github.com/premsgdev)
+
 
 ---
 
