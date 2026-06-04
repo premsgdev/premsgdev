@@ -49,18 +49,7 @@ I design and maintain backend platforms for enterprise products — scalable RES
 ![Qdrant](https://img.shields.io/badge/Vector%20DBs-FF4D4D?style=flat-square&logo=qdrant&logoColor=white)
 
 ---
- 
-### GitHub Stats
- 
-<div align="center">
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premsgdev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premsgdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=premsgdev&hide_border=true&theme=tokyonight)
- 
-</div>
----
+
 <div align="center">
 *Outside code: history, forest treks under the stars, and cooking.*
  
