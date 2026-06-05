@@ -4,9 +4,8 @@
 
 ---
 
-## 🚀 What I Do  
 
-I design and maintain backend platforms for enterprise products — scalable REST APIs, event-driven microservices, and data-intensive systems running on Docker and Kubernetes. Lately I'm focused on **RAG and AI-driven systems**: retrieval pipelines, vector search, and LLM-backed workflows. I care most about modernizing legacy systems into clean, maintainable architecture that lasts..
+I design and maintain backend platforms for enterprise products — scalable REST APIs, event-driven microservices, and data-intensive systems running on Docker and Kubernetes. Lately I'm focused on **RAG and AI-driven systems**: retrieval pipelines, vector search, and LLM-backed workflows. I care most about modernizing legacy systems into clean, maintainable architecture that lasts.
 
 [![Website](https://img.shields.io/badge/Website-premsg.info-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://premsg.info/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-premsg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premsg/)
